@@ -1,0 +1,15 @@
+.Checkboxes {
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.Description {
+	font-weight: bold;
+	font-size: x-large;
+}
+
+.Centered {
+	margin: auto;
+	width: 75vw;
+}
